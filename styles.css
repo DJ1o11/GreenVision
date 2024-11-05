@@ -583,6 +583,13 @@ body {
     /* overflow: hidden;  */
     transform: scale(0.5);
     transform-origin: center;
+    /* width: 808px; */
+    /* margin-top: -130px;  */
+}
+
+.sliderimg img{
+    width: 808px;
+    margin-top: -130px;
 }
    
 
@@ -601,7 +608,7 @@ body {
     left: 22rem;
     top: -7rem;
     text-align: left;
-
+    margin-top: 70px;
   }
   
 
